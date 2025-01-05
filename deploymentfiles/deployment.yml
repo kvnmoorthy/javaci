@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: 796973519883.dkr.ecr.us-east-1.amazonaws.com/rajasekhar:52
+        image: 796973519883.dkr.ecr.us-east-1.amazonaws.com/rajasekhar:57
         ports:
         - containerPort: 8080
 
