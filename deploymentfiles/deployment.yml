@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: devopshubg333/batch13:5
+        image: 796973519883.dkr.ecr.us-east-1.amazonaws.com/rajasekhar:xyz
         ports:
         - containerPort: 8080
 
